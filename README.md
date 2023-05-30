@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://www.hackabit.com/">
-    <img src="./Assets/channels4_profile.png" alt="HackABit Logo" heigh="150" width="150">
+  <a href="https://www.hackabit.com/" target=”_blank”>
+    <img src="./Assets/channels4_profile.png" alt="HackABit Logo" heigh="175" width="175">
   </a>
 </div>
 
