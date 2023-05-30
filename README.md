@@ -1,4 +1,4 @@
 <div align="center">
-  <img src="" alt="HackABit Logo">
+  <img src="./Assets/channels4_profile.png" alt="HackABit Logo">
   </img>
 </div>
