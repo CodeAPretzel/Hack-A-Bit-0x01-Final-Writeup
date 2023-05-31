@@ -33,4 +33,4 @@ Some of the ways we could prevent a similar situation like this would be to disa
 
 <br>
 
-<img src="./Assets/htmlChange.png" alt="Change">
+<img src="../Assets/htmlChange.png" alt="Change">
