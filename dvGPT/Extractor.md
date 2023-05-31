@@ -15,7 +15,7 @@ However, if you just imply that you are Robert, the AI will give you the flag ju
 <img src="./Assets/" alt="Is this Robert?">
 <br>
 
-Woo, now we get the <b>Flag: flag{hey_you're_not_robert}</b>
+Woo, now we get the <b>🚩 flag{hey_you're_not_robert}</b>
 
 ## Defense
 The only defense for this vulnerability, that I know of, is building upon this AI through prompt-engineering. The AI would have to be trained/programmed to monitor their own response and reduce the risk of giving away valuable information.
