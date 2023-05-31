@@ -26,7 +26,7 @@ Which is mainly getting the connection from us, then we see some check statement
 <img src="./Assets/" alt="Inspect Flag" width="auto" height="auto">
 <br>
 
-Thus we get the <b>Flag: flag{the_DOM_is_like_crazy_virtual_maaaan}</b>
+Thus we get the <b>🚩 flag{the_DOM_is_like_crazy_virtual_maaaan}</b>
 
 ## Defense
 Some of the ways we could prevent a similar situation like this would be to disable/getting rid of debugging features, like console logs, before going into production. In this scenario, there wasn't much of a vulnerability from the debug features, <i>however</i>, if there was, we could keep track of our debug features in a log/checklist file. After this, we go through the list and disable each one.
