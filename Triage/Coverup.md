@@ -34,5 +34,13 @@ Image Size                      : 1024x1024
 Megapixels                      : 1.0
 ```
 
-I then thought that this image might have some steganography put on it. I used <a href="https://steghide.sourceforge.net/">steghide</a> and used the following command, `steghide extract -sf challenge.jpg`. The program does ask for a password, however, none was needed and if there was a password, steghide would try to crack the password.
+I then thought that this image might have some steganography put on it. I used <a href="https://steghide.sourceforge.net/">steghide</a> and the following command, `steghide extract -sf challenge.jpg`. The program does ask for a password, however, none was needed and if there was a password then steghide would try to crack it.
+
+<br>
+
+<img src="../Assets/steghideTerm.png" alt="Steghide">
+
+<br>
+
+🚩 <b>flag{the_truth_is_burried_deep}</b>
 
