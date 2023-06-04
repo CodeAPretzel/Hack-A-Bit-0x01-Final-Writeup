@@ -23,7 +23,7 @@ If we go to the script that displayed this console log we can see an interesting
 Which is mainly getting the connection from us, then we see some check statements below. Commenting out this just disables the checks, so that's nice :P, but if we scroll to the top of the script we can see the flag in two different fields as shown below:
 
 <br>
-<img src="./Assets/" alt="Inspect Flag" width="auto" height="auto">
+  <img src="../Assets/consoleLog.png" alt="Inspect Flag" width="auto" height="auto">
 <br>
 
 Thus we get the <b>🚩 flag{the_DOM_is_like_crazy_virtual_maaaan}</b>
