@@ -12,7 +12,7 @@ This challenge was by far my favorite becuase it was fun trying to convince the 
 However, if you just imply that you are Robert, the AI will give you the flag just like that:
 
 <br>
-<img src="./Assets/" alt="Is this Robert?">
+<img src="../Assets/iAmRobert.png" alt="Is this Robert?">
 <br>
 
 Woo, now we get the <b>🚩 flag{hey_you're_not_robert}</b>
