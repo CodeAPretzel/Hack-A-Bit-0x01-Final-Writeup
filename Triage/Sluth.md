@@ -14,4 +14,10 @@ We can start with this challenge by using the `From Morse Code` section to conde
 
 - <a href="https://gchq.github.io/CyberChef/#recipe=From_Morse_Code('Forward%20slash','Line%20feed')From_Morse_Code('Forward%20slash','Line%20feed')From_Morse_Code('Forward%20slash','Line%20feed')From_Morse_Code('Forward%20slash','Line%20feed')From_Morse_Code('Forward%20slash','Line%20feed')">Cyberchef Recipe</a>
 
-<img src="" alt="Chef Coder or Whatever...">
+<br>
+
+<img src="../Assets/morseCode.png" alt="Chef Coder or Whatever...">
+
+<br>
+
+🚩 <b>FIVE_TIMES_0.O</b>
