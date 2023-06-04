@@ -13,7 +13,7 @@ Another easy one, maybe not at first glance though. This entire section of corru
 So, in order to solve this one, we have two options: <b>1.</b> read the code raw to see if there is anything in there in plaintext or <b>2.</b> use your favorite decompiler tool to reorganize through the mess and find what you can. In my first run of this, I decided to do the first option and, after some sifting, found the flag covered in plaintext.
 
 <br>
-<img src="" alt="Flag bro...">
+<img src="../Assets/grepCorruption.png" alt="Flag bro...">
 </br>
 
 After doing a re-run of this, I should have used grep but forgot that the flag would have been in <i>flag format</i>, but I guess that's my fault :P
