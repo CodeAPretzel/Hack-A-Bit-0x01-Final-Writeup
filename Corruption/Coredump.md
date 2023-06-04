@@ -71,4 +71,4 @@ Now we run the script with UNLOCK on the host given to us in the challenge:
 
 <br>
 
-With the give 🚩 <b>flag{look_like_ur_a_real_RE}</b>
+And get: 🚩 <b>flag{look_like_ur_a_real_RE}</b>
