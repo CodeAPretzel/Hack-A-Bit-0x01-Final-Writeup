@@ -22,28 +22,28 @@ HackABit (HAB), is a CTF competition that competitors try to exploit challenges 
 
 <div>
 
-| 🟢 dvGPT _____________________________|
-| ------------- |
-| [Leaky](./dvGPT/Leaky.md) |
-| [Extractor](./dvGPT/Extractor.md) |
+| 🟢 dvGPT _____________________________| 🟡 Points |
+| ------------- | ------------- |
+| [Leaky](./dvGPT/Leaky.md) | 75 |
+| [Extractor](./dvGPT/Extractor.md) | 100 |
+  
+| 🟢 Corruption ________________________| 🟡 Points |
+| ------------- | ------------- |
+| [Santa](./Corruption/Santa.md) | 75 |
+| [Coredump](./Corruption/Coredump.md) | 100 |
+| [bitsANDbytes](./Corruption/bitsANDbytes.md) | 125 |
 
-| 🟢 Corruption ________________________|
-| ------------- |
-| [Santa](./Corruption/Santa.md) |
-| [Coredump](./Corruption/Coredump.md) |
-| [bitsANDbytes](./Corruption/bitsANDbytes.md) |
+| 🟢 Triage _____________________________| 🟡 Points |
+| ------------- | ------------- |
+| [Sluth](./Triage/Sluth.md) | 75 |
+| [Inspector](./Triage/Inspector.md) | 100 |
+| [Coverup](./Triage/Coverup.md) | 125 |
 
-| 🟢 Triage _____________________________|
-| ------------- |
-| [Sluth](./Triage/Sluth.md) |
-| [Inspector](./Triage/Inspector.md) |
-| [Coverup](./Triage/Coverup.md) |
-
-| 🟢 Range _____________________________|
-| ------------- |
-| [Connection](./Range/Connection.md) |
-| [Rightface](./Range/Rightface.md) |
-| [Leftface](./Range/Leftface.md) |
+| 🟢 Range _____________________________| 🟡 Points |
+| ------------- | ------------- |
+| [Connection](./Range/Connection.md) | 75 |
+| [Rightface](./Range/Rightface.md) | 100 |
+| [Leftface](./Range/Leftface.md) | 125 |
   
 <br>
   
