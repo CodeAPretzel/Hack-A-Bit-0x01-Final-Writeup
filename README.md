@@ -31,6 +31,7 @@
 | ------------- |
 | [Santa](./Corruption/Santa.md) |
 | [Coredump](./Corruption/Coredump.md) |
+| [bitsANDbytes](./Corruption/bitsANDbytes.md) |
 
 | 🟢 Triage _____________________________|
 | ------------- |
