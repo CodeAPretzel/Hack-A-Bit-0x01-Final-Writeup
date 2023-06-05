@@ -10,7 +10,7 @@ You will use this jumpbox to attack other machines in the network. We've install
 
 <div align="center">
   <b>IMPORTANT -- CHALLENGES IN RANGE WILL BE LESS DESCRIPTIVE SINCE THE MACHINES HOSTING THE CHALLENGES ARE DOWN</b>
-</div
+</div>
     
 <br>
 <br>
