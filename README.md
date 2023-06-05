@@ -31,7 +31,6 @@ HackABit (HAB), is a CTF competition that competitors try to exploit challenges 
 | ------------- | ------------- |
 | [Santa](./Corruption/Santa.md) | 75 |
 | [Coredump](./Corruption/Coredump.md) | 100 |
-| [bitsANDbytes](./Corruption/bitsANDbytes.md) | 125 |
 
 | 🟢 Triage _____________________________| 🟡 Points |
 | ------------- | ------------- |
