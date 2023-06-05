@@ -70,4 +70,8 @@ Apparently the script takes the argument of a file and displays the contents. Al
 <br>
 
 ## Final Notes ~
-I would have done the last challenge `Aboutface` and the `King of the Hill` parts as well, however the KOTH was on the host of `Aboutface` and that shutdown in a little bit over a day into the competition. I would have, and should have, done the KOTH sooner but I was too focused on the other challenges. Funny enough, the main reason why no one was able to get back into the main servers is because one of the competitors ran a <a href="https://en.wikipedia.org/wiki/Fork_bomb">FORKBOMB</a> 💀 on the server at the end of the competition. However, it was funny and was awesome to see something burn and fall apart in the end, like fireworks or something. All in all, this competition was a blast and can't wait for 0x02!
+I would have done the last challenge `Aboutface` and the `King of the Hill` parts as well, however the KOTH was on the host of `Aboutface` and that shutdown in a little bit over a day into the competition. I would have, and should have, done the KOTH sooner but I was too focused on the other challenges. 
+
+Funny enough, the main reason why no one was able to get back into the main servers is because one of the competitors ran a <a href="https://en.wikipedia.org/wiki/Fork_bomb">FORKBOMB</a> 💀 on the server at the end of the competition. 
+
+However, it was funny and was awesome to see something burn and fall apart in the end, like fireworks. All in all, this competition was a blast and can't wait for 0x02!
