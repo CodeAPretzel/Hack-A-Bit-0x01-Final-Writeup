@@ -8,7 +8,7 @@ Both challenges for this section use the same pcapng file.
 
 
 ## Solution ~
-This challenge had we stumped for a little bit. My initial thought was to go through the TCP and HTTP streams, which only TCP was correct. There were about 500+ packets and I went through each and every one of them until I got the challenge's flag:
+This challenge had me stumped for a little bit. My initial thought was to go through the TCP and HTTP streams, which only TCP was correct. There were about 500+ packets and I went through each and every one of them until I got the challenge's flag:
 
 <br>
 
